@@ -12,6 +12,9 @@ Also your SIMBIOS/BoardSerialNumber, /SerialNumber, /SmUUID, and RtVariables/MLB
 
 Any other things you want to change is all up to you, just make sure you know what you're doing.
 
+## Some known issues at the moment.
+At times somethings like the keyboard, and trackpad may not 
+
 ## What does and doesn't work.
 ### Working:
 * Networking + WiFi (I don't remember anything I needed to do for this?...).
@@ -21,5 +24,7 @@ Any other things you want to change is all up to you, just make sure you know wh
 * Battery information.
 ### Not working:
 * iMessage and other iCloud services. - Easy fix?
+* Power button. - how
+* Sleep. - Needs to be fixed - doesn't wake up after sleep.
 ### Unknown:
 * HDMI and HDMI sound.
