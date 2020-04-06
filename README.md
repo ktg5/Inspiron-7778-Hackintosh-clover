@@ -22,9 +22,9 @@ At times somethings like the keyboard, and trackpad may not work after a bit of 
 * AirDrop and other WiFi services on macOS.
 * Trackpad and Touchscreen features.
 * Battery information.
+* SD Card slot - EPIC!
 ### Not working:
 * iMessage and other iCloud services. - Easy fix?
-* Power button. - how
 * Sleep. - Needs to be fixed - doesn't wake up after sleep.
 ### Unknown:
 * HDMI and HDMI sound.
