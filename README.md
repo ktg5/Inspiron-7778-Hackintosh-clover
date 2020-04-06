@@ -27,7 +27,7 @@ I'll be trying to find out how to solve this, but I have no idea if this is some
 * SD Card slot - EPIC!
 ### Not working:
 * iMessage and other iCloud services. - Easy fix?
-* Sleep. - Needs to be fixed - doesn't wake up after sleep.
+* Sleep. - Needs to be fixed - Stuck at a blank screen.
 * FileVault - who even uses that.
 ### Unknown:
 * HDMI and HDMI sound.
