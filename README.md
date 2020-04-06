@@ -26,6 +26,6 @@ At times somethings like the keyboard, and trackpad may not work after a bit of 
 ### Not working:
 * iMessage and other iCloud services. - Easy fix?
 * Sleep. - Needs to be fixed - doesn't wake up after sleep.
-#### * FileVault - who even uses that.
+* FileVault - who even uses that.
 ### Unknown:
 * HDMI and HDMI sound.
