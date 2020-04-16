@@ -6,7 +6,7 @@ The EFI I use for my Dell Inspiron 7000 Series Hackintosh.
 ## Note.
 THIS IS STILL IN DEVLEOPMENT.
 
-My "custom" EFI is only built for systems running an Dell Inspiron 7000 Series laptop with a Intel i5-6200U, and Intel HD Graphics 520. The reason why I'm talking about this is because in some of the settings in the config.plist file may not match your configzation.
+My "custom" EFI is only built for systems running an Dell Inspiron 7000 Series laptop with a Intel i5-6200U, and Intel HD Graphics 520. The reason why I'm talking about this is because in the config.plist, some settings may not match your configzation.
 
 Also your SIMBIOS/BoardSerialNumber, /SerialNumber, /SmUUID, and RtVariables/MLB have to be set by you as they are all set to nothing and MAY cause issues when using services like iMessage and other iCloud services on your system.
 
