@@ -26,9 +26,9 @@ I'll be trying to find out how to solve this, but I have no idea if this is some
 * Battery information.
 * SD Card slot - EPIC!
 * iMessage and other iCloud services.
+* Bluetooth - Sometimes works, other times doesn't - it might just be I have too much device connected to the device I want to connect to the hackintosh.
 ### Not working:
 * Audio port? - Not too sure yet.
-* Bluetooth? - Same thing, not too sure if my card supports BT.
 * Sleep. - Needs to be fixed - Stuck at a blank screen.
 * FileVault - who even uses that.
 ### Unknown:
