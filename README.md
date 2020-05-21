@@ -25,8 +25,10 @@ I'll be trying to find out how to solve this, but I have no idea if this is some
 * Trackpad and Touchscreen features.
 * Battery information.
 * SD Card slot - EPIC!
+* iMessage and other iCloud services.
 ### Not working:
-* iMessage and other iCloud services. - Easy fix?
+* Audio port? - Not too sure yet.
+* Bluetooth? - Same thing, not too sure if my card supports BT.
 * Sleep. - Needs to be fixed - Stuck at a blank screen.
 * FileVault - who even uses that.
 ### Unknown:
