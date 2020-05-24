@@ -12,11 +12,6 @@ Also your SIMBIOS/BoardSerialNumber, /SerialNumber, /SmUUID, and RtVariables/MLB
 
 Any other things you want to change is all up to you, just make sure you know what you're doing.
 
-## Some known issues at the moment.
-At times somethings like the keyboard, and trackpad may not work after a bit of using the laptop. And also the fans go faster than usually.
-
-I'll be trying to find out how to solve this, but I have no idea if this is something anyone can help with.
-
 ## What does and doesn't work.
 ### Working:
 * Networking + WiFi (I don't remember anything I needed to do for this?...).
