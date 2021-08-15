@@ -1,7 +1,9 @@
 # Dell Inspiron 7000 Series Hackintosh
+## This EFI goes unused as of Sep. 14, 2020 as the first release of my OpenCore EFI has been released. [You can find more find about this new EFI here.](https://github.com/ktg5/Inspiron-7778-Hackintosh-OC)
+
 The EFI I use for my Dell Inspiron 7000 Series Hackintosh.
 
-[You can easily download the latest version of this EFI folder by looking in the releases section.](https://github.com/ktg5/Inspiron-7000-Series-Hackintosh/releases)
+[You can easily download the latest version of this EFI folder by looking in the releases section.](https://github.com/ktg5/Inspiron-7778-Hackintosh-clover/releases)
 
 ## Note.
 THIS IS STILL IN DEVLEOPMENT.
